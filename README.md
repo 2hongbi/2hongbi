@@ -2,7 +2,8 @@
 
 🌱 I’m currently learning Data Science in DWU.<br />
 🔭 Actually, I worked as a web developer for about 3 years, using JAVA, Python,PHP,mysql etc.<br />
-📫 How to reach me: foxgirin950@gmail.com
+📫 How to reach me: Mail me foxgirin950@gmail.com
+😄 Visit my blog: https://soy3on.tistory.com/
 <!--
 **hongbi-lee/hongbi-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
