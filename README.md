@@ -19,6 +19,7 @@
 
 <br/>
 
+<!--
 ## Github Stats  
 <table>
   <tr>
@@ -30,7 +31,7 @@
     </td>
   </tr>
 </table>  
-
+-->
 
 
 
