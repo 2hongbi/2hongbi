@@ -12,12 +12,15 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
+
 <br>
 
+<!-- 
 ### 💫 Experience
 - **OSS** - Lead Mentee, Open Source Contribution Academy(Aug 2021 ~)
 
 <br>
+-->
 
 ### ✨Summary
 - 🌱 I'm currently majoring in Information Statistics at Dongduk Women's University. <br />
