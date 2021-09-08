@@ -17,6 +17,7 @@
 
 
 <!--
+https://simpleicons.org/
 ## Github Stats  
 <table style="border-collapse:collapse;border-spacing:0">
   <tr>
@@ -42,8 +43,6 @@
 - 📖 I'm currently learning Deep Learning, Data Analysis and Computer Science.
 - 📫 How to reach me: Mail me foxgirin950@gmail.com <br />
 - 😄 Visit [my blog](https://soy3on.tistory.com/)
-
-<br>
 
 <!--
 ### 💪 Skills
@@ -77,8 +76,6 @@
   </tr>
 </table>  
 -->
-
-<br/> 
 
 <!--
 **hongbi-lee/hongbi-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
