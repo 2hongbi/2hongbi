@@ -16,28 +16,6 @@
 </p>
 
 
-<!--
-https://simpleicons.org/
-## Github Stats  
-<table style="border-collapse:collapse;border-spacing:0">
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=hongbi-lee&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-    </td>
-    <td valign="top" width="50%">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongbi-lee&hide_border=true&layout=compact" align="left" style="width: 100%" />
-    </td>
-  </tr>
-</table>  
--->
-
-
-<!-- 
-### 💫 Experience
-- **OSS** - Lead Mentee, Open Source Contribution Academy(Aug 2021 ~)
-
--->
-
 ### ✨Summary
 - 🌱 I'm currently majoring in Information Statistics at Dongduk Women's University. <br />
 - 📖 I'm currently learning Deep Learning, Data Analysis and Computer Science.
@@ -57,6 +35,8 @@ https://simpleicons.org/
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>     
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
+</p>
+<p>
     <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>     
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 </p>
