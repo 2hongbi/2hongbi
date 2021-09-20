@@ -44,38 +44,32 @@ https://simpleicons.org/
 - 📫 How to reach me: Mail me foxgirin950@gmail.com <br />
 - 😄 Visit [my blog](https://soy3on.tistory.com/)
 
-<!--
+<br>
+
 ### 💪 Skills
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4 >Platforms & Languages <h4>
-      <i> Techs that I've used at least once </i>
-      <p>
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
-          <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>     
-          <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-          <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
-      </p>
-      <p>
-          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>     
-          <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-      </p>
-    </td>
-    <td valign="top" width="50%">
-       <h4 >Tools <h4>
-       <i>Tools that I've used at least once </i>
-       <p>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-        <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=#276DC3"/>
-       </p>
-    </td>
-  </tr>
-</table>  
--->
+✔️ **Platforms & Languages**  (*Techs that I've used at least once*)
+
+<p>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
+    <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>     
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>     
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+</p>
+
+<br>
+                                                                                                    
+✔️ **Tools**  (*Tools that I've used at least once*)
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=#276DC3"/>
+</p>
+
 
 <!--
 **hongbi-lee/hongbi-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
