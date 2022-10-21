@@ -3,8 +3,10 @@
     <img src="https://komarev.com/ghpvc/?username=hongbi-lee&style=flat-square&color=blueviolet" align="right" />
   </div>
 -->
+
 <div align="center">
 
+<!-- ![header](https://capsule-render.vercel.app/api?type=rect&color=black&height=150&section=header&text=Soyeon's%20Github%20&fontColor=FFFFFF&fontSize=40) -->
 ### 👋 Welcome to my Github 
 
 <p>
@@ -88,5 +90,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=black&height=200&width=auto&section=footer)
 </div>
