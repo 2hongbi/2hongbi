@@ -23,8 +23,8 @@
 
 
 ### ✨ Summary
-🌱 I'm currently majoring in Information Statistics at Dongduk Women's University. <br />
-📖 I'm currently learning Deep Learning, Data Analysis and Computer Science. <br />
+🌱 I'm majoring in Information Statistics at Dongduk Women's University. <br />
+📖 I'm learning Deep Learning, Data Analysis and Computer Science. <br />
 📫 How to reach me: Mail me soyeonlee25190@gmail.com <br />
 😄 Visit [my blog](https://soy3on.tistory.com/) <br />
 
