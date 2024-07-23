@@ -23,12 +23,15 @@
 
 
 ### ✨ Summary
+<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=iyu081698)](https://solved.ac/iyu081698) -->
 🌱 I'm majoring in Information Statistics at Dongduk Women's University. <br />
 📖 I'm learning Deep Learning, Data Analysis and Computer Science. <br />
 📫 How to reach me: Mail me soyeonlee25190@gmail.com <br />
 😄 Visit [my blog](https://soy3on.tistory.com/) <br />
 
 <br />
+
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2hongbi)](https://github.com/2hongbi/github-readme-stats) -->
 
