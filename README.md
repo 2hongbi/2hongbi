@@ -23,7 +23,8 @@
 
 
 ### ✨ Summary
-<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=iyu081698)](https://solved.ac/iyu081698) -->
+ [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=iyu081698)](https://solved.ac/iyu081698) 
+ 
 🌱 I'm majoring in Information Statistics at Dongduk Women's University. <br />
 📖 I'm learning Deep Learning, Data Analysis and Computer Science. <br />
 📫 How to reach me: Mail me soyeonlee25190@gmail.com <br />
