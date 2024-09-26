@@ -6,7 +6,6 @@
 
 <div align="center">
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=rect&color=black&height=150&section=header&text=Soyeon's%20Github%20&fontColor=FFFFFF&fontSize=40) -->
 ### 👋 Welcome to my Github 
 
 <p>
@@ -14,27 +13,37 @@
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
   <a href="https://soy3on.tistory.com/" target="_blank">
-     <img src="https://img.shields.io/badge/Tistory-F39422?style=for-the-badge&logo=Tistory&logoColor=white alt=tistory style="margin-bottom: 5px"/>
+     <img src=https://img.shields.io/badge/Tistory-F39422?style=for-the-badge&logo=Tistory&logoColor=white alt=tistory style="margin-bottom: 5px"/>
+  </a>
+  <a href="https://velog.io/@2hongbi/posts" target="_blank">
+    <img src=https://img.shields.io/badge/Velog-20C997?&style=for-the-badge&logo=Velog&logoColor=white alt=velog style="margin-bottom: 5px" />
   </a>
   <a href="https://linkedin.com/in/soyeon-lee-77a267220/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-537EC5?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
 </p>
 
+<br/>
 
 ### ✨ Summary
- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=iyu081698)](https://solved.ac/iyu081698) 
- 
+<p>
+  
 🌱 I'm majoring in Information Statistics at Dongduk Women's University. <br />
 📖 I'm learning Deep Learning, Data Analysis and Computer Science. <br />
-📫 How to reach me: Mail me soyeonlee25190@gmail.com <br />
-😄 Visit [my blog](https://soy3on.tistory.com/) <br />
+📫 How to reach me: Mail me iyu081698@gmail.com <br />
+😄 Visit [my blog](https://velog.io/@2hongbi/posts/) <br />
 
-<br />
+</p>
+
+<p>
+  
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2hongbi)](https://github.com/2hongbi/github-readme-stats)-->
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=iyu081698)](https://solved.ac/iyu081698) 
+  
+</p>
 
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2hongbi)](https://github.com/2hongbi/github-readme-stats) -->
 
 <br />
 
@@ -67,6 +76,13 @@
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>     
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat-square&logo=Apache Airflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 </p>
 
  <p>
