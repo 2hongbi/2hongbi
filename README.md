@@ -1,25 +1,19 @@
-<!-- 
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=hongbi-lee&style=flat-square&color=blueviolet" align="right" />
-  </div>
--->
-
 <div align="center">
 
 ### 👋 Welcome to my Github 
 
 <p>
-  <a href="https://github.com/hongbi-lee" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  <a href="https://github.com/2hongbi" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="display: block;" />
   </a>
   <a href="https://soy3on.tistory.com/" target="_blank">
-     <img src=https://img.shields.io/badge/Tistory-F39422?style=for-the-badge&logo=Tistory&logoColor=white alt=tistory style="margin-bottom: 5px"/>
+     <img src="https://img.shields.io/badge/Tistory-F39422?style=for-the-badge&logo=Tistory&logoColor=white" alt="tistory" style="display: block;"/>
   </a>
   <a href="https://velog.io/@2hongbi/posts" target="_blank">
-    <img src=https://img.shields.io/badge/Velog-20C997?&style=for-the-badge&logo=Velog&logoColor=white alt=velog style="margin-bottom: 5px" />
+    <img src="https://img.shields.io/badge/Velog-20C997?&style=for-the-badge&logo=Velog&logoColor=white" alt="velog" style="display: block;" />
   </a>
   <a href="https://linkedin.com/in/soyeon-lee-77a267220/" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-537EC5?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/linkedin-537EC5?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="display: block;" />
   </a>
 </p>
 
